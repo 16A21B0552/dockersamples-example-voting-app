@@ -1,0 +1,1 @@
+# dockersamples-example-voting-app
